@@ -1,0 +1,5 @@
+mkdir -p .github/workflows
+# Create the two YAML files manually, then:
+git add .github/workflows/
+git commit -m "Add GitHub Actions workflows"
+git push origin main
